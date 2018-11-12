@@ -4,7 +4,7 @@
 
 **Analysis, visualization, text:** [Ioannis Antypas](https://twitter.com/ioannisantypas)
 
-You can read the **story** at [here](dw.com/a-46182626)
+You can read the **story** at [here](https://dw.com/a-46182626)
 
 ## Data and Methodology
 
